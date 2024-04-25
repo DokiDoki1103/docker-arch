@@ -1,1 +1,1 @@
-FROM prom/prometheus:v2.20.0
+FROM apache/apisix-ingress-controller:1.8.0

@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            registry.cn-hangzhou.aliyuncs.com/goodrain/rbd-monitor:latest
-            registry.cn-hangzhou.aliyuncs.com/goodrain/rbd-monitor:v2.20.0
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:latest
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:1.8.0
