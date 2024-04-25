@@ -1,1 +1,1 @@
-FROM apache/apisix:3.8.0-debian
+FROM apache/apisix-ingress-controller:1.8.0
