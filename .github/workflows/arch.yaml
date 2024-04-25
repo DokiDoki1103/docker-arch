@@ -36,4 +36,4 @@ jobs:
           push: true
           tags: |
             registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:latest
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:3.8.0-debian
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:1.8.0
