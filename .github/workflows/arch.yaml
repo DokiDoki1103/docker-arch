@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:latest
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix-ingress-controller:1.8.0
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix:latest
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/apisix:3.8.0-debian
