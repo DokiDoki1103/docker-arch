@@ -1,1 +1,1 @@
-FROM apache/apisix-ingress-controller:1.8.0
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.2
