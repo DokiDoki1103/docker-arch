@@ -1,1 +1,1 @@
-FROM rainbond/rbd-api:v6.0.0-release
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0

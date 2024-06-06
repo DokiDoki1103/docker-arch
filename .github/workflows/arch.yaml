@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/rbd-api:v6.0.0-release
-#            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/prometheus-adapter:v0.11.2
+#            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/rbd-api:v6.0.0-release
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/prometheus-adapter:v0.12.0
