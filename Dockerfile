@@ -1,1 +1,1 @@
-FROM rancher/mirrored-pause:3.6
+FROM rancher/mirrored-library-traefik:2.10.5

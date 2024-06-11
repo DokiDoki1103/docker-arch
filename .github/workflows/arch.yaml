@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/mirrored-pause:latest
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/mirrored-pause:3.6
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/mirrored-library-traefik:latest
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/mirrored-library-traefik:2.10.5
