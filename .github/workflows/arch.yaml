@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/mirrored-library-traefik:latest
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/mirrored-library-traefik:2.10.5
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/mirrored-library-busybox:latest
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/mirrored-library-busybox:1.36.1
