@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/prometheus-adapter:latest
-            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/prometheus-adapter:v0.12.0
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/mirrored-pause:latest
+            registry.ap-southeast-1.aliyuncs.com/goodrain-ee/mirrored-pause:3.6

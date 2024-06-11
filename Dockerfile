@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+FROM rancher/mirrored-pause:3.6
