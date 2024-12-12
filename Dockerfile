@@ -1,1 +1,1 @@
-FROM rancher/mirrored-library-traefik:2.10.5
+FROM apache/apisix:3.9.0-debian
