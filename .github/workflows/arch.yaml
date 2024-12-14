@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/apisix-ingress-controller:1.7.1
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/prometheus:latest
