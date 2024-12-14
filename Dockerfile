@@ -1,1 +1,1 @@
-FROM rancher/klipper-lb:v0.4.5
+FROM ghcr.io/dokidoki1103/tikuadapter:v0.1.0-beta.28
