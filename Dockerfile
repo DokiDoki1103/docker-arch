@@ -1,1 +1,1 @@
-FROM alpine:3.17
+FROM kibana:8.9.0
