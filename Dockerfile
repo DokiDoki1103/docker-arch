@@ -1,1 +1,1 @@
-FROM grafana/alloy:v1.7.4
+FROM rancher/mirrored-metrics-server:v0.6.3
