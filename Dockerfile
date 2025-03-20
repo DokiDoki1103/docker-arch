@@ -1,1 +1,1 @@
-FROM grafana/loki
+FROM kiwigrid/k8s-sidecar:1.30.1
