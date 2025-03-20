@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/configmap-reload:v0.14.0
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/alloy:1.7.4
