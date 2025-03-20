@@ -1,1 +1,1 @@
-FROM docker.io/prom/memcached-exporter:v0.15.1
+FROM rancher/mirrored-library-busybox:1.36.1
