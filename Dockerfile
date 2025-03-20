@@ -1,1 +1,1 @@
-FROM grafana/loki-canary:3.4.2
+FROM docker.io/library/memcached:1.6.37-alpine
