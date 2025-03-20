@@ -1,1 +1,1 @@
-FROM kiwigrid/k8s-sidecar:1.30.1
+FROM grafana/alloy
