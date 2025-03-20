@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/memcached:1.6.37-alpine
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/memcached-exporter:v0.15.1

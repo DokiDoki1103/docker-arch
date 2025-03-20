@@ -1,1 +1,1 @@
-FROM docker.io/library/memcached:1.6.37-alpine
+FROM docker.io/prom/memcached-exporter:v0.15.1
