@@ -1,1 +1,1 @@
-FROM kibana:8.9.0
+FROM grafana/loki-canary:3.4.2
