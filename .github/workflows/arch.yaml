@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/alloy:1.7.4
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/alloy:v1.7.4

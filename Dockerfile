@@ -1,1 +1,1 @@
-FROM grafana/alloy:1.7.4
+FROM grafana/alloy:v1.7.4
