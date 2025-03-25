@@ -1,1 +1,1 @@
-FROM rancher/mirrored-metrics-server:v0.6.3
+FROM node:18.18.2-slim
