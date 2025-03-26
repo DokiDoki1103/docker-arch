@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            registry.cn-wulanchabu.aliyuncs.com/zxy-img/rancher/pause:3.1
+            registry.cn-wulanchabu.aliyuncs.com/zxy-img/pause:3.1
