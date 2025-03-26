@@ -1,1 +1,1 @@
-FROM node:18.18.2-slim
+FROM docker.io/rancher/pause:3.1
