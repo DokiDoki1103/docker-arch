@@ -1,1 +1,1 @@
-FROM docker.io/rancher/pause:3.1
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter
