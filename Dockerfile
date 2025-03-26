@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v4.13.0
