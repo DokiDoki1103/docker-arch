@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+FROM node:18.18.2-alpine
