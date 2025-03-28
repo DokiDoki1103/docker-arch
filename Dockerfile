@@ -5,4 +5,5 @@ RUN apk add --no-cache \
     pango-dev \
     giflib-dev \
     libjpeg-turbo-dev \
-    freetype-dev
+    freetype-dev \
+    && npm install -g canvas
